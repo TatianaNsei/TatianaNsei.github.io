@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Version Controls"
+title: "Version Control"
 date: 2020-04-09
 ---
 
