@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tatiana, Good girl, Launches Site"
+title: "Tatiana, Tech Girl, Launches Site"
 date: 2020-04-08
 ---
 
