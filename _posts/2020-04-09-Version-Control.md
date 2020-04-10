@@ -20,7 +20,7 @@ If you are a graphic or web designer and want to keep every version of an image 
  
  For a novice, when you work on a file and save it, its the first version revision1. You might later on, modify it this gives it another version say revision2. But then, revision1 might have important content you dont want to alter and not neccessary in revision2, we use "save as". It’s why we use “Save As”. You want the new file without obliterating the old one. Lateron, these revisions can be compared, restored, and with some types of files, merged.
   
-  For professional developers, it goes futher. Software developers, use this to tract and provide control over source codes. As teams design, develop and deploy software, it is common for multiple versions of the same software to be deployed in different sites and for the software's developers to be working simultaneously on updates. Bugs or features of the software are often only present in certain versions (because of the fixing of some problems and the introduction of others as the program develops). Therefore, for the purposes of locating and fixing bugs, it is vitally important to be able to retrieve and run different versions of the software to determine in which version(s) the problem occurs. It may also be necessary to develop two versions of the software concurrently: for instance, where one version has bugs fixed, but no new features (branch), while the other version is where new features are worked on (trunk). 
+  For professional developers, it goes futher. Software developers, use this to tract and provide control over source codes. As teams design, develop and deploy software, it is common for multiple versions of the same software to be deployed in different sites and for the software's developers to be working simultaneously on updates. Bugs or features of the software are often only present in certain versions (because of the fixing of some problems and the introduction of others as the program develops). Therefore, for the purposes of locating and fixing bugs, it is vitally important to be able to retrieve and run different versions of the software to determine in which version(s) the problem occurs. It may also be necessary to develop two versions of the software concurrently: for instance, where one version has bugs fixed, while the other version is where new features are worked on. 
 
   
   <h3>Examples of VCS</h3>
@@ -34,17 +34,12 @@ It is a repository to host Git projects. For those wondering what is Git? It is 
 <b>Pros</b>
 
 -Easy and inexpensive branch operations
-
 -Users can access the complete history tree offline
-
 -It offers a highly distributed, peer-to-peer model
 
 <b>Cons</b>
 
--Steep learning curve for the users of SVN
-
 -Not ideal for developers working alone
-
 -Limited support for Windows in comparison to Linux
 
 <strong>b) Mercurial </strong>
@@ -55,19 +50,14 @@ Developers and enterprises adore Mercurial for its backup system, search functio
 <b>Pros</b>
 
 -Low learning curve compared to Git
-
 -Extensive and better documentation
-
 -Highly distributed model
-
 -High-performance system with great speed
 
   <b>Cons</b>
 
 -Cannot merge two parents
-
 -It is more based on extension rather than scripting
-
 -Not versatile enough to allow out-of-the-box maneuvers
   
 <strong>c) GitLab</strong>
@@ -86,10 +76,21 @@ For security, it leverages encryption, two-factor authentication, and password p
 Perforce delivers the version control capabilities through its HelixCore. The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows.
 It is a security solution that protects the most valuable assets. HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
 
-<strong>f)  Microsoft Team Foundation Server</strong>
+<strong>f) CVS</strong>
 
-Developed by Microsoft, the Team Foundation Server is an enterprise-grade tool to manage source code and other services that need versioning. It can keep track of work items to find defects, requirements, and scenarios in a project.
-It comes with several unique features like Team Build, data collection and reporting, Team Project Portal, Team Foundation Shared Services, etc.
+CVS is the most popular and widely adopted revision control system to date. It has gained popularity mainly because of the low learning curve and its simple system to keep files and revisions up to date.
+There is an array of IDEs for CVS including Xcode (Mac), Eclipse, NetBeans and Emacs all of which use CVS.
+
+<b>Pros</b>
+
+-It is a time-tested and mature system which has been in use for more than three decades.
+-There are a lot of IDEs that use CVS.
+
+<b>Cons</b>
+-When you move or rename files it is not included in the version update
+-Offering symbolic links to files involves some security risks
+-Absence of any support for atomic operation can lead to corruption of source code
+-Very slow tagging and branch operation
 
 
   <h3>Pros and Cons of using Version Control Softwares (VCS)</h3>
