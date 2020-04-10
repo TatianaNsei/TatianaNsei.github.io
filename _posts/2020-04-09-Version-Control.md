@@ -23,46 +23,46 @@ If you are a graphic or web designer and want to keep every version of an image 
   For professional developers, it goes futher. Software developers, use this to tract and provide control over source codes. As teams design, develop and deploy software, it is common for multiple versions of the same software to be deployed in different sites and for the software's developers to be working simultaneously on updates. Bugs or features of the software are often only present in certain versions (because of the fixing of some problems and the introduction of others as the program develops). Therefore, for the purposes of locating and fixing bugs, it is vitally important to be able to retrieve and run different versions of the software to determine in which version(s) the problem occurs. It may also be necessary to develop two versions of the software concurrently: for instance, where one version has bugs fixed, but no new features (branch), while the other version is where new features are worked on (trunk). 
 
   
- <b> Examples of VCS </b>
+  Examples of VCS 
   
   There exist many VCS options, but i will name a few here.
 
-a)<strong> GitHub </strong>
+a) GitHub 
 
 It helps software teams to collaborate and maintain the entire history of code changes. You can track changes in code, turn back the clock to undo errors and share your efforts with other team members.
 It is a repository to host Git projects. For those wondering what is Git? It is an open source version control system that features local branching, multiple workflows, and convenient staging areas. Git version control is an easy to learn option and offers faster operation speed.
 
-<strong> Pros</strong>
+ Pros
 
 Easy and inexpensive branch operations
 Users can access the complete history tree offline
 It offers a highly distributed, peer-to-peer model
 
-<strong>Cons</strong>
+Cons
 
 Steep learning curve for the users of SVN
 Not ideal for developers working alone
 Limited support for Windows in comparison to Linux
 
-b). <strong> Mercurial </strong>
+b) Mercurial 
 
 Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
 Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
 
-<strong>Pros</strong>
+Pros
 
 -Low-learning curve compared to Git
 -Extensive and better documentation
 -Highly distributed model
 -High-performance system with great speed
 
- <strong> Cons</strong>
+  Cons
 
 -Cannot merge two parents
 -It is more based on extension rather than scripting
 -Not versatile enough to allow out-of-the-box maneuvers
   
-c). <strong> GitLab</strong>
+c) GitLab
 
 GitLab comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.
 You can access all the aspects of a project, view code, pull requests, and combine the conflict resolution.
@@ -73,20 +73,20 @@ Beanstalk is an ideal option for those who need to work from remote places. This
 It can be integrated with messaging and email platforms for efficient collaborations related to codes and updates. It supports both Git and SVN and comes with built-in analytics features.
 For security, it leverages encryption, two-factor authentication, and password protection functionalities.
 
-e) <stong> PerForce </strong>
+e) PerForce
 
 Perforce delivers the version control capabilities through its HelixCore. The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows.
 It is a security solution that protects the most valuable assets. HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
 
-f) <strong> Microsoft Team Foundation Server</strong>
+f)  Microsoft Team Foundation Server
 
 Developed by Microsoft, the Team Foundation Server is an enterprise-grade tool to manage source code and other services that need versioning. It can keep track of work items to find defects, requirements, and scenarios in a project.
 It comes with several unique features like Team Build, data collection and reporting, Team Project Portal, Team Foundation Shared Services, etc.
 
 
-  <h3><b>Pros and Cons of using Version Control Softwares (VCS)</h3></b>
+  Pros and Cons of using Version Control Softwares (VCS)
   
-  <b>Pros</b>
+  Pros
   
   Streamlining the development process, management of code for multiple projects and keeping a history of all changes within a code is one of the main importance of using VCS
   
@@ -95,7 +95,7 @@ It comes with several unique features like Team Build, data collection and repor
  Developers can combine the code changes when required. Further, they can view the history of changes, go back to the previous version(s) and use/manage code in the desired fashion. 
  VCS can be integrated with several software development tools like PaaS providers, integrated development environments (IDE) and build automation tools.
  
- <b>Cons</b>
+ Cons
  
   It may not always be obvious who did the most recent change fordistributed CVS.
   
