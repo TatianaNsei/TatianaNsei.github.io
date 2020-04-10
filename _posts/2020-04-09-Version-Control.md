@@ -4,7 +4,7 @@ title: "Version Control"
 date: 2020-04-09
 ---
 
-<b>Understanding Version Control</b>
+Understanding Version Control
 
 Also known as revision control or source control, version Controls is all about the management of changes to documents, 
 large websites, computer programs and other collections of information. Version control is a system that records changes 
