@@ -22,13 +22,12 @@ If you are a graphic or web designer and want to keep every version of an image 
   For professional developers, it goes futher. Software developers, use this to tract and provide control over source codes. As teams design, develop and deploy software, it is common for multiple versions of the same software to be deployed in different sites and for the software's developers to be working simultaneously on updates. Bugs or features of the software are often only present in certain versions (because of the fixing of some problems and the introduction of others as the program develops). Therefore, for the purposes of locating and fixing bugs, it is vitally important to be able to retrieve and run different versions of the software to determine in which version(s) the problem occurs. It may also be necessary to develop two versions of the software concurrently: for instance, where one version has bugs fixed, but no new features (branch), while the other version is where new features are worked on (trunk). 
 
   
-  Examples of VCS
+ <b> Examples of VCS </b>
   
-  There exixt many VCS options, but i will name a few here.
-  
-  1. GitHub
-GitHub helps software teams to collaborate and maintain the entire history of code changes. You can track changes in code, turn back the clock to undo errors and share your efforts with other team members.
+  There exist many VCS options, but i will name a few here.
 
+1. GitHub
+GitHub helps software teams to collaborate and maintain the entire history of code changes. You can track changes in code, turn back the clock to undo errors and share your efforts with other team members.
 It is a repository to host Git projects. For those wondering what is Git? It is an open source version control system that features local branching, multiple workflows, and convenient staging areas. Git version control is an easy to learn option and offers faster operation speed.
 
 Pros
@@ -43,7 +42,6 @@ Limited support for Windows in comparison to Linux
 
 2. Mercurial
 Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
-
 Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
 
 Pros
