@@ -26,58 +26,67 @@ If you are a graphic or web designer and want to keep every version of an image 
   <h3>Examples of VCS</h3>
    There exist many VCS options, but i will name a few here.
 
-a) <strong>GitHub </strong>
+<strong>a) GitHub </strong>
 
 It helps software teams to collaborate and maintain the entire history of code changes. You can track changes in code, turn back the clock to undo errors and share your efforts with other team members.
 It is a repository to host Git projects. For those wondering what is Git? It is an open source version control system that features local branching, multiple workflows, and convenient staging areas. Git version control is an easy to learn option and offers faster operation speed.
 
- Pros
+<b>Pros</b>
 
 -Easy and inexpensive branch operations
+
 -Users can access the complete history tree offline
+
 -It offers a highly distributed, peer-to-peer model
 
-Cons
+<b>Cons</b>
 
 -Steep learning curve for the users of SVN
+
 -Not ideal for developers working alone
+
 -Limited support for Windows in comparison to Linux
 
-b) <strong>Mercurial </strong>
+<strong>b) Mercurial </strong>
 
 Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
 Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
 
-Pros
+<b>Pros</b>
 
 -Low learning curve compared to Git
+
 -Extensive and better documentation
+
 -Highly distributed model
+
 -High-performance system with great speed
 
-  Cons
+  <b>Cons</b>
 
 -Cannot merge two parents
+
 -It is more based on extension rather than scripting
+
 -Not versatile enough to allow out-of-the-box maneuvers
   
-c) <strong>GitLab</strong>
+<strong>c) GitLab</strong>
 
 GitLab comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.
 You can access all the aspects of a project, view code, pull requests, and combine the conflict resolution.
 
-d) <strong> Beanstalk</strong>
+<strong>d)  Beanstalk</strong>
 
 Beanstalk is an ideal option for those who need to work from remote places. This software is based on browser and cloud, allowing users to code, commit, review and deploy using a browser.
 It can be integrated with messaging and email platforms for efficient collaborations related to codes and updates. It supports both Git and SVN and comes with built-in analytics features.
 For security, it leverages encryption, two-factor authentication, and password protection functionalities.
 
-e) <strong>PerForce</strong>
+<strong>e) PerForce</strong>
 
 Perforce delivers the version control capabilities through its HelixCore. The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows.
 It is a security solution that protects the most valuable assets. HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
 
-f)  <strong>Microsoft Team Foundation Server</strong>
+<strong>f)  Microsoft Team Foundation Server</strong>
 
 Developed by Microsoft, the Team Foundation Server is an enterprise-grade tool to manage source code and other services that need versioning. It can keep track of work items to find defects, requirements, and scenarios in a project.
 It comes with several unique features like Team Build, data collection and reporting, Team Project Portal, Team Foundation Shared Services, etc.
@@ -85,7 +94,7 @@ It comes with several unique features like Team Build, data collection and repor
 
   <h3>Pros and Cons of using Version Control Softwares (VCS)</h3>
   
-  Pros
+  <b>Pros</b>
   
   Streamlining the development process, management of code for multiple projects and keeping a history of all changes within a code is one of the main importance of using VCS
   
@@ -94,7 +103,7 @@ It comes with several unique features like Team Build, data collection and repor
  Developers can combine the code changes when required. Further, they can view the history of changes, go back to the previous version(s) and use/manage code in the desired fashion. 
  VCS can be integrated with several software development tools like PaaS providers, integrated development environments (IDE) and build automation tools.
  
- Cons
+<b> Cons</b>
  
   It may not always be obvious who did the most recent change fordistributed CVS.
   
