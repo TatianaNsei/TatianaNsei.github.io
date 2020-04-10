@@ -34,12 +34,15 @@ It is a repository to host Git projects. For those wondering what is Git? It is 
 <b>Pros</b>
 
 -Easy and inexpensive branch operations
+
 -Users can access the complete history tree offline
+
 -It offers a highly distributed, peer-to-peer model
 
 <b>Cons</b>
 
 -Not ideal for developers working alone
+
 -Limited support for Windows in comparison to Linux
 
 <strong>b) Mercurial </strong>
@@ -50,33 +53,22 @@ Developers and enterprises adore Mercurial for its backup system, search functio
 <b>Pros</b>
 
 -Low learning curve compared to Git
+
 -Extensive and better documentation
+
 -Highly distributed model
+
 -High-performance system with great speed
 
   <b>Cons</b>
 
 -Cannot merge two parents
+
 -It is more based on extension rather than scripting
+
 -Not versatile enough to allow out-of-the-box maneuvers
-  
-<strong>c) GitLab</strong>
 
-GitLab comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.
-You can access all the aspects of a project, view code, pull requests, and combine the conflict resolution.
-
-<strong>d)  Beanstalk</strong>
-
-Beanstalk is an ideal option for those who need to work from remote places. This software is based on browser and cloud, allowing users to code, commit, review and deploy using a browser.
-It can be integrated with messaging and email platforms for efficient collaborations related to codes and updates. It supports both Git and SVN and comes with built-in analytics features.
-For security, it leverages encryption, two-factor authentication, and password protection functionalities.
-
-<strong>e) PerForce</strong>
-
-Perforce delivers the version control capabilities through its HelixCore. The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows.
-It is a security solution that protects the most valuable assets. HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
-
-<strong>f) CVS</strong>
+<strong>c) CVS</strong>
 
 CVS is the most popular and widely adopted revision control system to date. It has gained popularity mainly because of the low learning curve and its simple system to keep files and revisions up to date.
 There is an array of IDEs for CVS including Xcode (Mac), Eclipse, NetBeans and Emacs all of which use CVS.
@@ -87,10 +79,34 @@ There is an array of IDEs for CVS including Xcode (Mac), Eclipse, NetBeans and E
 -There are a lot of IDEs that use CVS.
 
 <b>Cons</b>
+
 -When you move or rename files it is not included in the version update
+
 -Offering symbolic links to files involves some security risks
+
 -Absence of any support for atomic operation can lead to corruption of source code
+
 -Very slow tagging and branch operation
+  
+<strong>d) GitLab</strong>
+
+GitLab comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.
+
+You can access all the aspects of a project, view code, pull requests, and combine the conflict resolution.
+
+<strong>e)  Beanstalk</strong>
+
+Beanstalk is an ideal option for those who need to work from remote places. This software is based on browser and cloud, allowing users to code, commit, review and deploy using a browser.
+It can be integrated with messaging and email platforms for efficient collaborations related to codes and updates. It supports both Git and SVN and comes with built-in analytics features.
+
+For security, it leverages encryption, two-factor authentication, and password protection functionalities.
+
+<strong>f) PerForce</strong>
+
+Perforce delivers the version control capabilities through its HelixCore. The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows.
+
+It is a security solution that protects the most valuable assets. HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
+
 
 
   <h3>Pros and Cons of using Version Control Softwares (VCS)</h3>
