@@ -4,7 +4,7 @@ title: "Version Control"
 date: 2020-04-09
 ---
 
-<h3><b>Understanding Version Control</h3></b>
+<b>Understanding Version Control</b>
 
 Also known as revision control or source control, version Controls is all about the management of changes to documents, 
 large websites, computer programs and other collections of information. Version control is a system that records changes 
@@ -13,7 +13,7 @@ to a file or set of files over time so that you can recall specific versions lat
 to a previous working version. Simple Right!
 
 
-<h3><b>It's Importance</h3></b>
+<b>It's Importance</b>
 
 Now that we understand what this version control is, its neccessary that we know why we need it that is, how useful it can be.
 If you are a graphic or web designer and want to keep every version of an image or layout, a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Remember using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. 
