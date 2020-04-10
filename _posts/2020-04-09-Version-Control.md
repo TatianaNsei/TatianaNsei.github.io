@@ -4,7 +4,7 @@ title: "Version Control"
 date: 2020-04-09
 ---
 
-Understanding Version Control
+<h1>Understanding Version Control</h1>
 
 Also known as revision control or source control, version Controls is all about the management of changes to documents, 
 large websites, computer programs and other collections of information. Version control is a system that records changes 
@@ -13,7 +13,7 @@ to a file or set of files over time so that you can recall specific versions lat
 to a previous working version. Simple Right!
 
 
-It's Importance
+<h1>It's Importance</h1>
 
 Now that we understand what this version control is, its neccessary that we know why we need it that is, how useful it can be.
 If you are a graphic or web designer and want to keep every version of an image or layout, a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Remember using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead. 
@@ -23,7 +23,7 @@ If you are a graphic or web designer and want to keep every version of an image 
   For professional developers, it goes futher. Software developers, use this to tract and provide control over source codes. As teams design, develop and deploy software, it is common for multiple versions of the same software to be deployed in different sites and for the software's developers to be working simultaneously on updates. Bugs or features of the software are often only present in certain versions (because of the fixing of some problems and the introduction of others as the program develops). Therefore, for the purposes of locating and fixing bugs, it is vitally important to be able to retrieve and run different versions of the software to determine in which version(s) the problem occurs. It may also be necessary to develop two versions of the software concurrently: for instance, where one version has bugs fixed, but no new features (branch), while the other version is where new features are worked on (trunk). 
 
   
-  Examples of VCS 
+  <h1>Examples of VCS</h1>
   
   There exist many VCS options, but i will name a few here.
 
@@ -84,7 +84,7 @@ Developed by Microsoft, the Team Foundation Server is an enterprise-grade tool t
 It comes with several unique features like Team Build, data collection and reporting, Team Project Portal, Team Foundation Shared Services, etc.
 
 
-  <h3><strong>Pros and Cons of using Version Control Softwares (VCS)</strong></h3>
+  <h1>Pros and Cons of using Version Control Softwares (VCS)</h1>
   
   Pros
   
